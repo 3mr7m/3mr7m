@@ -1,8 +1,15 @@
-# 👋 Hey, I'm Amr Hamoda (3mr-7m)
+<h1 align="center">Hi 👋, I'm Amr Hamoda</h1>
+<h3 align="center">A passionate Python learner and future software engineer</h3>
 
-💻 I’m a passionate learner and aspiring software engineer.  
-🚀 Currently learning Python and building small projects to sharpen my skills.  
-🌱 Always improving, one line of code at a time.
+- 🔭 I’m currently working on: **small Python projects to improve my skills**
+
+- 🌱 I’m currently learning: **Python, Git, GitHub, and command line tools**
+
+- 👨‍💻 My GitHub Profile: [github.com/3mr-7m](https://github.com/3mr-7m)
+
+- 📫 How to reach me: **[amrohamoda33@gmail.com](mailto:amrohamoda33@gmail.com)**
+
+- ⚡ Fun fact: *Always improving, one line of code at a time.*
 
 ---
 
@@ -26,19 +33,21 @@
 - Master Python 🐍  
 - Build real-world projects 💡  
 - Contribute to open-source 🔓  
+- Speak fluent English 🌍  
 
 ---
 
-## 📫 Contact & Socials
-
-- 📧 Email: [amrohamoda33@gmail.com](mailto:amrohamoda33@gmail.com)
-- 🧠 GitHub: [github.com/3mr7m](https://github.com/3mr7m)
-- 💼 LinkedIn: [linkedin.com/in/amr-hamoda-634151261](https://www.linkedin.com/in/amr-hamoda-634151261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📷 Instagram: [@js3mr](https://www.instagram.com/js3mr?igsh=ZzJ0cGVoNnlqbGFu)
-- 🐦 Twitter / X: [@3mr_7m](https://x.com/3mr_7m?t=dGFL5khFZpo0_gtSqUISZw&s=09)
-- 📹 YouTube: [@js3mr](https://youtube.com/@js3mr?si=6bmXA7os1xik2uUm)
-- 💬 Telegram: [t.me/Amr_Hamoda](https://t.me/Amr_Hamoda)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/amr-hamoda-634151261" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/js3mr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://x.com/3mr_7m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/x.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://t.me/Amr_Hamoda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
+  <a href="https://youtube.com/@js3mr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" alt="youtube" height="30" width="40" /></a>
+</p>
 
 ---
 
-> *“Keep showing up. Everything changes when you do.”*
+<p align="center">
+  <b>“Keep showing up. Everything changes when you do.”</b>
+</p>
