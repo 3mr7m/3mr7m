@@ -27,7 +27,7 @@
 <a href="https://x.com/3mr_7m" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://youtube.com/@js3mr" target="_blank">
+<a href="https://youtube.com/@3mr_7m" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="mailto:amrohamoda33@gmail.com" target="_blank">
